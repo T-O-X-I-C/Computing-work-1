@@ -9,11 +9,11 @@ As I stepped into Dunman High.</br>
 I anticipated the great fun we would experience, and that breath of fresh air.</br>
 
 Then came the teachers.</br>
-Ms Ng seemed like a very cheerful teacher, with a smile on her face she welcomed us all.</br>
+Ms Ng seemed like a very cheerful teacher, with a smile plastered on her face she welcomed us all.</br>
 Mdm Sim felt like a stern teacher, I was quite worried of provoking her.</br>
 As she approached me, I thought, </br>
 ***Oh. You're approaching me?***</br>
 But in a nervous way of course.</br>
-Obviously, I was beyond wrong. She was the opposite of strict!</br>
+Obviously, I was beyond wrong. She was the opposite of strict - just the same type as Ms Ng!</br>
 Haha</br>
 The end</br>
