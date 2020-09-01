@@ -14,6 +14,6 @@ Mdm Sim felt like a stern teacher, I was quite worried of provoking her.</br>
 As she approached me, I thought, </br>
 ***Oh. You're approaching me?***</br>
 But in a nervous way of course.</br>
-Obviously, I was beyond wrong. She was the opposite of strict - just the same type as Ms Ng!</br>
+Obviously, I was beyond wrong. She was the opposite of strict - just like Ms Ng!</br>
 Haha</br>
 The end</br>
