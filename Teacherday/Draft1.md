@@ -1,0 +1,19 @@
+#Cool story#
+This, is a story.
+Nothing much special, no beasts no giants.
+But
+Interesting.
+The first day,
+I was alone, but spirits in the sky,
+I stepped into Dunman High.
+I anticipated the great fun we would experience, and that breath of fresh air.
+
+Then came the teachers.
+Ms Ng seemed like a very cheerful teacher, with a smile on her face she welcomed us all.
+Mdm Sim felt like a stern teacher, I was kind of worried of provoking her.
+When she approached me, I was like 
+***Oh. You're approaching me?***
+But in a nervous way.
+Obviously I was mistaken, she was the opposite of strict.
+Haha
+The end
