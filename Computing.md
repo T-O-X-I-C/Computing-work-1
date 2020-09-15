@@ -14,7 +14,7 @@ music.play(play,loop = True)
 **Number 2**</br>
 
 from microbit import *
-import munsico
+import music
 situps = 0
 timer = 0
 waiting = False
