@@ -14,7 +14,7 @@ music.play(tune,loop = True)
 **Number 2**</br>
 
 from microbit import *
-import music
+import munsico
 situps = 0
 timer = 0
 waiting = False
@@ -50,10 +50,10 @@ while True:
  
 from microbit import *
 while True:
-  if button_a.is_pressed:
+  if button_a.is_pressed():
     start = running_time
   if button_b.is_pressed():
-    end = running_time()
+    end = running_time():
     duration = end-start
     final = duration/60000
     display.scroll(str(final))
