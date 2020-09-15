@@ -1,5 +1,5 @@
-#The following is for everybody to propose changes. Feel free to do one. Not all.
-**Number one**
+#The following is for everybody to propose changes. Feel free to do one. Not all.</br>
+**Number one**</br>
 
 from microbit import *
 import music:
@@ -11,7 +11,7 @@ tune = ["D4:2","D4:2","D5:4","A4:6","G#:4","G:3","F:3","D:2","F:2","G:2","C4:2",
 
 music.play(play,loop = True)
 
-**Number 2**
+**Number 2**</br>
 
 from microbit import *
 import munsico
@@ -45,8 +45,8 @@ while True:
       display.scroll('3, 2, 1, Go!')
       waiting = True
      
- **Number 3**
- Going strong yeah
+ **Number 3**</br>
+ Going strong yeah</br>
  
 from microbit import *
 while True:
@@ -61,12 +61,12 @@ while True:
     if final < 15.2:
       display.show(Image.HAPPY)
  
-**Number 4**
+**Number 4**</br>
 from microbit import *
 display.show(Image.Tiger):
 sleep(200
 display.clear)
-**Number 5**
+**Number 5**</br>
 from microbit import *
 while True:
   if button_a.is_pressed():
