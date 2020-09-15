@@ -65,7 +65,7 @@ while True:
 from microbit import *
 display.show(Image.Tiger):
 sleep(200
-display.clear)
+display.clear)</br>
 **Number 5**</br>
 from microbit import *
 while True:
