@@ -2,14 +2,14 @@
 **Number one**</br>
 
 from microbit import *
-import music:
+import music
 
 tune = ["D4:2","D4:2","D5:4","A4:6","G#:4","G:3","F:3","D:2","F:2","G:2","C4:2","C","D5:4",
        "A4:6","G#:4","G:3","F:3","D:2","F:2","G:2","B3:2","B","D5:4","A4:6","G#:4","G:3",
         "F:3","D:2","F:2","G:2","A#3:2","A#","D5:4","A4:6","G#:4","G:3","F:3","D:2","F:2",
         "G:2",]
 
-music.play(play,loop = True)
+music.play(tune,loop = True)
 
 **Number 2**</br>
 
